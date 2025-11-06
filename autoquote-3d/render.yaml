@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: autoquote3d-frontend
+    env: node
+    rootDir: frontend

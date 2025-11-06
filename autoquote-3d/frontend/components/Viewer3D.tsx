@@ -1,0 +1,1 @@
+export default function Viewer3D() { return <div>3D Viewer Placeholder</div> }
